@@ -19,7 +19,7 @@
     - web面板 或许你更加熟悉.
 - 官网/用户手册: [clashmi.app](https://clashmi.app)
 
-##### 注意: ClashMi或KaringX未在任何视频平台开设过任何频道
+##### 注意: ClashMi或KaringX未在任何视频平台开设过任何频道.
 
 ## 推广
 <details>
